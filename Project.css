@@ -1,0 +1,19 @@
+#projects {
+    padding: 50px;
+    background-color: #fff;
+}
+
+.project-grid {
+    display: flex;
+    gap: 20px;
+}
+
+.project-item {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+}
+.project-item:hover{
+    background-color: black;
+    color: #f4f4f4;
+}

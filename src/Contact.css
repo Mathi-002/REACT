@@ -1,0 +1,29 @@
+#contact {
+    padding: 50px;
+    /* background-image: linear-gradient(PINK,PURPLE,rgb(253, 48, 253),PINK,PURPLE,rgb(248, 75, 248)); */
+    background-image: linear-gradient(rgb(247, 231, 230),black,rgb(228, 201, 201));
+    color: white;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input, textarea {
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color:green;
+    color:white;
+    border: none;
+    cursor: pointer;
+}

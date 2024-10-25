@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color:black;
+    color:white;
+
+/*     
+    Primary Color: Dark Charcoal (#333333)
+Secondary Color: Light Gray (#BDC3C7)
+Accent Color: Bright Yellow (#F1C40F)
+Text Color: White (#FFFFFF) */
+}
+
+nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}

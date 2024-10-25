@@ -1,0 +1,22 @@
+
+#projects {
+    padding: 50px;
+    /* background-image: linear-gradient(rgb(209, 186, 214),pink,PURPLE) */
+    background-image: linear-gradient(rgb(247, 231, 230),black,rgb(228, 201, 201));
+
+}
+
+.project-grid {
+    display: flex;
+    gap: 20px;
+}
+
+.project-item {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+}
+.project-item:hover{
+    background-color:black;
+    color:white;
+}
